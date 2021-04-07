@@ -1,3 +1,5 @@
+https://gvozdika.github.io/blitz_junior_test/#/blitz_junior_test/
+
 ### Тестовое задание для кандидатов в компанию Blitz_Studio на позицию Junior
 
 Задача: реализовать веб-приложение на React.

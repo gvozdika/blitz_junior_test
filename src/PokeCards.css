@@ -1,0 +1,9 @@
+.pokeCards {
+    list-style-type:none;
+    width: 85%;
+    margin: 5% auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 150px));
+    grid-gap: 3vw;
+    justify-content: center;
+}
